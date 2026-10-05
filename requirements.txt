@@ -1,0 +1,11 @@
+langgraph
+langgraph-supervisor
+langchain
+langchain-openai
+langchain-anthropic
+httpx
+python-dotenv
+logfire
+langchain_google_community
+googlemaps
+load_dotenv
